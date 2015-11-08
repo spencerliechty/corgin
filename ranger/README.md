@@ -16,7 +16,8 @@ jekyll serve
 
 ### Build Project
 ```bash
-TBA
+jekyll build
+jekyll build --watch
 ```
 
 

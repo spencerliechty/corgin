@@ -9,6 +9,8 @@ Jekyll is a [Ruby](https://www.ruby-lang.org/en/downloads/) gem, so you'll need 
 gem install jekyll
 ```
 
+## Dev'ing
+
 ### Run dev server
 ```bash
 jekyll serve
@@ -17,8 +19,9 @@ jekyll serve
 ### Build Project
 ```bash
 jekyll build
-jekyll build --watch
 ```
+
+
 
 
 ## Dev Notes
@@ -39,6 +42,6 @@ jekyll build --watch
 
 ### TODO
 - [X] Set up jekyll proj
-- [ ] Test hello world jekyll build
-- [ ] Touch README.md
-- [ ] 
+- [X] Test hello world jekyll build
+- [X] Touch README.md
+- [ ] Add Bootstrap/BSJS/BSTemplate

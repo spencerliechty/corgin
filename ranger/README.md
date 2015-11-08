@@ -37,5 +37,7 @@ TBA
 		unchanged)
 
 ### TODO
-- [ ] Do stuff
-- [ ] Do more stuff
+- [X] Set up jekyll proj
+- [ ] Test hello world jekyll build
+- [ ] Touch README.md
+- [ ] 

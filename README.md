@@ -40,9 +40,13 @@ jekyll build
 	- Application form and comm (I promise to try to leave as much as possible
 		unchanged)
 
-### TODO
 - [X] Set up jekyll proj
 - [X] Test hello world jekyll build
 - [X] Touch README.md
 - [X] Add Bootstrap/BSJS
-- [ ] Add Bootstrap Carousel Example as starting point
+- [X] Add Bootstrap Carousel Example as starting point
+
+### TODO
+- [ ] Get index page setup
+- [ ] create variables for styling info in `_data`?
+- [ ] Get EVERY OTHER page setup

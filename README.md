@@ -44,4 +44,5 @@ jekyll build
 - [X] Set up jekyll proj
 - [X] Test hello world jekyll build
 - [X] Touch README.md
-- [ ] Add Bootstrap/BSJS/BSTemplate
+- [X] Add Bootstrap/BSJS
+- [ ] Add Bootstrap Carousel Example as starting point

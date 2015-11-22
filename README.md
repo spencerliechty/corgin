@@ -58,16 +58,20 @@ jekyll build
 - [X] Contact
 
 #### Werks
-- [ ] create variables for styling info in `_data`?
-- [ ] Available dogs data in dir
+- [X] Available dogs data in `_data`
+- [X] Available dogs images in assets
+
 - [ ] On carousel
 - [ ] Available dogs page
 - [ ] Application Form Configuration in dir
 - [ ] Create Application Form 
-- [ ] Create email script
+- [ ] Create Application Submit email script
 - [ ] Contact Us Form Configuration in dir
 - [ ] Create Contact Us Form 
-- [ ] Create email script
+- [ ] Create Contact Us Submit email script
+
+- [ ] create variables for styling info in `_data`?
+
 
 ### PAGES
 First pass is content based, second pass is styling based.

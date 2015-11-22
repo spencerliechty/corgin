@@ -1,0 +1,26 @@
+- name: Also
+  image: also.jpg
+  petfinder_url: https://www.petfinder.com/petdetail/23855195
+  description: "Also is a funny boy. He is a corgi mix, but we don't know with what -- too close to a corgi to make the call. He loves people, but is good at occupying himself. He loves kids and other dogs that do not cause problems. He just wants a family to call his own. Apartments are not an option for Also as he likes to exercise himself if he doesn't have anyone to play with."
+
+- name: Amber
+  image: amber.jpg
+  petfinder_url: https://www.petfinder.com/petdetail/15699987
+  description: 'Amber is a happy girl who loves to play with herding dogs, and she likes to outrun them. She is good with kids, plays rowdy with other dogs. She is sweet, loving and very intelligent. She learns quickly.'
+
+- name: Buckwheat
+  image: buckwheat.jpg
+  petfinder_url: https://www.petfinder.com/petdetail/22037757
+  description: 'Buckwheat is a happy puppy. Calm in nature, but loves to play with kids and other dogs. His mom is a corgi, but he looks like a miniature Black Lab at 30 lbs and 13" tall.'
+
+- name: Earnhee
+  image: earnhee.jpg
+  petfinder_url: http://www.petfinder.com/petdetail/14640361
+  description: 'Earnhee (Earnhart) came into rescue with a severely damaged rear left leg that caused him terrible pain, and yet he was still a happy boy. His pain has been removed and he is now an absolute cuddly bunch of love. He loves all people, kids and most dogs. He wants to be near people as much as possible; this is the joy of his life. He loves to run and play and a big yard would be right up his alley. Well, after someone to call his own of course.'
+
+- name: Ronnie
+  image: ronnie.jpg
+  petfinder_url: http://www.petfinder.com/petdetail/23734225
+  description: 'Ronnie is a happy boy.  Housetrained, crate trained and gets along with kids and dogs, cats unknown.  He is a silly little guy and just wants a home of his own with a family to love.'
+
+

@@ -1,0 +1,40 @@
+org: Corgi & Critters
+nav:
+  - text: Home
+    href: '/'
+
+  - text: Browse
+    dropdown:
+      - text: Available Dogs
+        href: '/available.html'
+
+      - text: Happy Tales of Adoption
+        href: '/happy.html'
+
+  - text: Adopt
+    dropdown:
+      - text: Adoption Process
+        href: '/process.html'
+
+      - text: Application Form
+        href: '/application.html'
+
+  - text: Support
+    dropdown:
+      - text: Donate
+        href: '/donate.html'
+
+      - text: Volunteer
+        href: '/volunteer.html'
+
+  - text: Learn
+    dropdown:
+      - text: About Corgis
+        href: '/corgis.html'
+
+      - text: Other Rescues
+        href: '/rescues.html'
+
+  - text: Contact
+    href: '/contact.html'
+

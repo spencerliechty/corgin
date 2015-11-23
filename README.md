@@ -60,8 +60,7 @@ jekyll build
 #### Werks
 - [X] Available dogs data in `_data`
 - [X] Available dogs images in assets
-
-- [ ] On carousel
+- [X] On carousel
 - [ ] Available dogs page
 - [ ] Application Form Configuration in dir
 - [ ] Create Application Form 
@@ -69,7 +68,6 @@ jekyll build
 - [ ] Contact Us Form Configuration in dir
 - [ ] Create Contact Us Form 
 - [ ] Create Contact Us Submit email script
-
 - [ ] create variables for styling info in `_data`?
 
 
